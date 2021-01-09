@@ -22,10 +22,7 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ![code quiz](./Assets/HW-4.gif)
-# Justin-s-Code-Quiz
-# My-Code-Quiz
-# My-Code-Quiz
-# My-Code-Quiz
-# My-Code-Quiz
-# My-Code-Quiz
-# My-Code-Quiz
+
+Repository https://github.com/justinkvang/My-Code-Quiz
+Deployed https://justinkvang.github.io/My-Code-Quiz/
+
